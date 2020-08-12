@@ -17,7 +17,7 @@ public class Exercicio1 {
 		
 		td = ano*365+mes*30+dia;
 		
-		System.out.println("Você vivei:  "+td+"dias de vida.......");
+		System.out.println("Você viveu:  "+td+"dias de vida.......");
 		
 		
 	}
